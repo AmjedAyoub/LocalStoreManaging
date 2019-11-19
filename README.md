@@ -1,6 +1,6 @@
 # Home Improvement Material Store (My Store)
 ## Introduction
-This is a solo project. The program’s main objective is to manage the store’s inventory and the business financial performance allowing the store to be mainly paperless. The program is being used to manage inventory by registering customers and wholesalers’ transactions as well as inputting, editing, viewing, and searching receipts, and implementing notifications when the store is ready to reorder materials. To manage the financial performance of the store, the program has an accounting and managerial side to manage employees’ salaries, accounts payables, accounts receivables, expenses, sales, and profits. This program is user-friendly to view, search, and manage the entire store within a few clicks.
+The program’s main objective is to manage the store’s inventory and the business financial performance allowing the store to be mainly paperless. The program is being used to manage inventory by registering customers and wholesalers’ transactions as well as inputting, editing, viewing, and searching receipts, and implementing notifications when the store is ready to reorder materials. To manage the financial performance of the store, the program has an accounting and managerial side to manage employees’ salaries, accounts payables, accounts receivables, expenses, sales, and profits. This program is user-friendly to view, search, and manage the entire store within a few clicks.
 ## ScreenShots
 #### Sign in page
 ![Image](./assets/images/1.png)
