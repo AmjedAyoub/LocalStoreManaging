@@ -792,7 +792,6 @@ namespace BALOOTA
                         if (b != rowindex1)
                         { dataGridView1.Rows[b].Cells[0].Value = false; }
                     }
-
                 }
                 else
                 { select = false; }
@@ -825,7 +824,6 @@ namespace BALOOTA
                 textBox7.Text = dataGridView1.Rows[rowindex1].Cells[6].Value.ToString();
                 textBox6.Text = dataGridView1.Rows[rowindex1].Cells[7].Value.ToString();
                 textBox18.Text = dataGridView1.Rows[rowindex1].Cells[9].Value.ToString();
-
 
                 SqlConnection conn33 = new SqlConnection(src);
                 conn33.Open();

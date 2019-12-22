@@ -432,7 +432,6 @@ namespace BALOOTA
 
         public void SOV()
         {
-
             row1 = 0;
             try
             {
