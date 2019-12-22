@@ -91,4 +91,4 @@ Ctrl + F5
 This program is published on [GitHub](https://github.com/AmjedAyoub/LocalStoreManaging).
 
 ## Planned updates
-At the moment, this app is the minimum viable product. We hope to make updates to improve the UI/UX, and add more functionality and features such as the ability of managing the data from several stores if exists.
+At the moment, this app is the minimum viable product. For future updates; improve the UI/UX, and add more functionality and features such as the ability of managing the data from several stores if exists.
