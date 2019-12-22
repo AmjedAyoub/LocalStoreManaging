@@ -8,7 +8,7 @@ To manage the financial performance of the store, the program has an accounting 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. They will also give an overview of some of the app's functionality.
 
-### Prerequisites
+### Requirements
 You will need Microsoft Visual studio installed if you want to run this application locally. For help installing Microsoft Visual studio, please [click here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=community&rel=16).
 
 ### Installing
@@ -90,5 +90,5 @@ Ctrl + F5
 ## Links
 This program is published on [GitHub](https://github.com/AmjedAyoub/LocalStoreManaging).
 
-## Planned updates
+## Future updates
 At the moment, this app is the minimum viable product. For future updates; improve the UI/UX, and add more functionality and features such as the ability of managing the data from several stores if exists.
