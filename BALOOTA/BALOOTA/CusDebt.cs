@@ -469,7 +469,6 @@ namespace BALOOTA
             empty = true;
             select = false;
             dataGridView1.Rows.Clear();
-
             for (int ro = 0; ro < 25; ro++)
             {
                 dataGridView1.Rows.Add(false, null, null, null, null, null, null);
@@ -669,7 +668,6 @@ namespace BALOOTA
 
         private void comboBox3_KeyUp(object sender, KeyEventArgs e)
         {
-
             if (e.KeyCode != Keys.Down && e.KeyCode != Keys.Up && e.KeyCode != Keys.Left && e.KeyCode != Keys.Right && e.KeyCode != Keys.Back && e.KeyCode != Keys.Enter && e.KeyCode != Keys.Delete)
             {
                 string item = comboBox3.Text;
