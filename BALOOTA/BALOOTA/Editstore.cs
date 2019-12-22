@@ -285,8 +285,6 @@ namespace BALOOTA
 
         private void button6_Click(object sender, EventArgs e)
         {
-
-
             if (comboBox2.Text != "")
             {
                 if (textBox5.Text != "")
