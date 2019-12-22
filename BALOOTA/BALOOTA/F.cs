@@ -170,8 +170,7 @@ namespace BALOOTA
         {
             if(textBox2.Text=="")
             { MessageBox.Show("الرجاء ادخال التاريخ"); }
-            else
-            if ((MessageBox.Show("هل انت متأكد من ادخال المعلومات ؟", "الرجاء التأكيد", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes))
+            else if ((MessageBox.Show("هل انت متأكد من ادخال المعلومات ؟", "الرجاء التأكيد", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes))
             {
                 Program.mysignin.Show();
                 Program.mysignin.Signin_Load(sender, e);
