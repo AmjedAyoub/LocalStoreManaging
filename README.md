@@ -6,7 +6,7 @@ The program’s main objective is to manage the store’s inventory and the busi
 To manage the financial performance of the store, the program has an accounting and managerial side to manage employees’ salaries, accounts payables, accounts receivables, expenses, sales, and profits. This program is user-friendly to view, search, and manage the entire store within a few clicks.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. They will also give an overview of some of the app's functionality.
+These instructions will get you a copy of the project on your local machine. They will also give an overview of some of the app's functionality.
 
 ### Requirements
 You will need Microsoft Visual studio installed if you want to run this application locally. For help installing Microsoft Visual studio, please [click here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=community&rel=16).
