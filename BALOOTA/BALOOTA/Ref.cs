@@ -276,7 +276,6 @@ namespace BALOOTA
                     string page = "Ref2";
                     Program.mysignin.which(ww, page);
                    // */
-
             }
             else
             {
