@@ -34,7 +34,6 @@ namespace BALOOTA
 
         public void EmpP_Load(object sender, EventArgs e)
         {
-
             textBox1.Text = "";
             textBox2.Text = "";
             textBox3.Text = "";
@@ -147,14 +146,12 @@ namespace BALOOTA
                 {
                     this.dataGridView1.Rows[y].HeaderCell.Value = (y + 1).ToString();
                 }
-
             }
             catch { MessageBox.Show("الرجاء التاكد من معلومات البحث"); }
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-
             if (select && dataGridView1.Rows[rowindex1].Cells[1].Value != null)
             {
                 textBox1.Text = dataGridView1.Rows[rowindex1].Cells[1].Value.ToString();
