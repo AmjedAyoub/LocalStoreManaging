@@ -50,8 +50,7 @@ namespace BALOOTA
         }
         
         public void Editemp_Load(object sender, EventArgs e)
-        {
-           
+        {           
             u = false;
             panel1.Enabled = false;
             checkBox1.Checked = false;
@@ -73,8 +72,7 @@ namespace BALOOTA
         }
         
         public void button3_Click(object sender, EventArgs e)
-        {
-            
+        {            
             if (select)
             {
                 SqlConnection conn3 = new SqlConnection(src);
@@ -92,8 +90,7 @@ namespace BALOOTA
                 textBox1.Text = dataGridView1.Rows[rowindex1].Cells[2].Value.ToString();
                 textBox2.Text = dataGridView1.Rows[rowindex1].Cells[3].Value.ToString();
                 textBox4.Text = dataGridView1.Rows[rowindex1].Cells[1].Value.ToString();
-                textBox11.Text = dataGridView1.Rows[rowindex1].Cells[4].Value.ToString();
-                
+                textBox11.Text = dataGridView1.Rows[rowindex1].Cells[4].Value.ToString();                
             }
         }
 
@@ -285,10 +282,8 @@ namespace BALOOTA
                         conn33.Close();
                         textBox1.Focus();
                         dateTimePicker1.Checked = false;
-
                     }
                 }
-
             }
         }
           
@@ -461,7 +456,6 @@ namespace BALOOTA
                             if (b != rowindex1)
                             { dataGridView1.Rows[b].Cells[0].Value = false; }
                         }
-
                     }
                     else
                     { select = false; }
