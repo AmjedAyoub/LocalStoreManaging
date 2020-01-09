@@ -149,7 +149,6 @@ namespace BALOOTA
                             if (b != rowindex1)
                             { dataGridView1.Rows[b].Cells[0].Value = false; }
                         }
-
                     }
                     else
                     { select = false; }
@@ -326,7 +325,6 @@ namespace BALOOTA
 
         private void button2_Click(object sender, EventArgs e)
         {
-
             if (textBox13.Text != "")
             {
                 if (textBox4.Text != "")
@@ -415,7 +413,6 @@ namespace BALOOTA
 
                 MessageBox.Show("لقد تم تعديل المصروف بنجاح");
 
-
                 textBox1.Text = "";
                 textBox2.Text = "";
                 textBox3.Text = "";
@@ -455,7 +452,6 @@ namespace BALOOTA
                 comboBox3.DroppedDown = true;
                 comboBox3.SelectionStart = item.Length;
                 comboBox3.SelectionLength = 0;
-
                 comboBox3.Cursor = Cursor.Current;
             }
         }
